@@ -26,5 +26,6 @@
    ```bash
    git clone [https://github.com/XPPET/Java-Academic-Projects.git](https://github.com/XPPET/Java-Academic-Projects.git)
 
-Student : Petridis Christos
+<br><br>
+Student : Petridis Christos <br>
 Teacher (author) : mr. Chatzigeorgiou Alexandros 
