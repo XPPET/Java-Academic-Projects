@@ -25,3 +25,6 @@
 1. **Κάντε clone το repository:**
    ```bash
    git clone [https://github.com/XPPET/Java-Academic-Projects.git](https://github.com/XPPET/Java-Academic-Projects.git)
+
+Student : Petridis Christos
+Teacher (author) : mr. Chatzigeorgiou Alexandros 
